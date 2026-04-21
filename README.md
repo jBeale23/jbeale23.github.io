@@ -24,7 +24,7 @@ aj@lkn.io | @ajlkn
 ## Banner Image
  - [Johns Hopkins University Gilman Hall](https://pixabay.com/photos/johns-hopkins-university-gilman-hall-1590925/) free for use.
 
-##Skills Icons
+## Skills Icons
  - [Bash Logo](https://commons.wikimedia.org/wiki/File:Bash_Logo_Colored.svg) under FAL.
  - [C Logo](https://commons.wikimedia.org/wiki/File:C_Logo.png) from Public Domain.
  - [Debian Logo](https://commons.wikimedia.org/wiki/File:Openlogo-debianV2.svg) under CC BY 3.0.
