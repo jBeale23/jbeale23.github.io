@@ -22,7 +22,7 @@ aj@lkn.io | @ajlkn
  - Responsive Tools (github.com/ajlkn/responsive-tools)
 
 ## Banner Image
- - [Johns Hopkins University Gilman Hall](https://pixabay.com/photos/johns-hopkins-university-gilman-hall-1590925/) free for use.
+ - [Johns Hopkins University Gilman Hall](https://pixabay.com/photos/johns-hopkins-university-gilman-hall-1590925/) under Pixabay License terms.
 
 ## Skills Icons
  - [Bash Logo](https://commons.wikimedia.org/wiki/File:Bash_Logo_Colored.svg) under FAL.
