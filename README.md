@@ -13,13 +13,3 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-		
-	Banner Image:
-		Johns Hopkins University Gilman Hall (https://pixabay.com/photos/johns-hopkins-university-gilman-hall-1590925/)
