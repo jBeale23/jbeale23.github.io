@@ -2782,7 +2782,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #3b436d;
+					color: #c7cbe1;
 				}
 
 		#header > nav {
@@ -2902,6 +2902,7 @@ input, select, textarea {
 
 				#header > footer {
 					padding: 1.5em;
+					font-size: 40px;
 				}
 
 		/* Wrapper */
